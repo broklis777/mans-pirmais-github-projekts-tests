@@ -1,1 +1,0 @@
-# mans-pirmais-github-projekts-tests
